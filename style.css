@@ -1,0 +1,55 @@
+html {
+  background-color: white;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+    color: white;
+    background-color: indigo;
+}
+
+a:link {
+  color: white;
+}
+a:visited {
+  color: rgb(255, 239, 149);
+
+  
+}
+
+a:hover {
+  color: gold;
+  opacity: 0.7;
+}
+
+a:active {
+  color: black;
+  opacity: 0.5;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+
+
+.google {
+  background-color: red;
+}
+
+.bing {
+  background-color: blueviolet;
+}
+
+.yahoo {
+  background-color:green;
+}
+
+.my-links {
+  font-size: 21px;
+  text-align: right;
+  margin-right: 70%;
+}
