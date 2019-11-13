@@ -50,6 +50,6 @@ h2 {
 
 .my-links {
   font-size: 21px;
-  text-align: right;
-  margin-right: 70%;
+  /* text-align: right; */
+  margin-left: 3em;
 }
